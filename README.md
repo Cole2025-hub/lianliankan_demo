@@ -6,7 +6,7 @@
 
 ## 快速开始
 
-下载 https://github.com/Cole2025-hub/lianliankan_demo/blob/7aab2f6d4097ad6df6d507b57ce4a6d5f0ea8f6e/lianliankan_game.html文件，双击在浏览器中打开即可开始游戏。
+下载 lianliankan_game.html文件，双击在浏览器中打开即可开始游戏。
 
 ## 游戏特色
 
